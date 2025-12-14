@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate cybersecurity student deeply focused on:
+I'm a passionate cybersecurity student from Kerala,deeply focused on:
 
 - 🛡️ **Ethical Hacking & Web Application Security**
 - 🔍 **Bug Hunting & Vulnerability Research**
