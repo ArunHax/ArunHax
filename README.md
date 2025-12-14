@@ -14,6 +14,7 @@ I'm a passionate cybersecurity student deeply focused on:
 - 🛡️ **Ethical Hacking & Web Application Security**
 - 🔍 **Bug Hunting & Vulnerability Research**
 - 🔁 **Reverse Engineering & Android App Cracking**
+- 🎥 **Tech related memes & content creator on Instagram (_arunn11, arunhax,arun.tech.world)**
 - 💬 Always exploring new ways to understand, break, and secure systems
 
 ---
